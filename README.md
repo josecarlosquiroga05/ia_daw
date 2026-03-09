@@ -188,3 +188,24 @@ Parte 3 — Comparativa sector, IA y lenguaje
 | Comercio electrónico | Recomendación de productos    | Python            | Facilita el desarrollo de algoritmos de recomendación y     |
 |                      |                               |                   | análisis de datos                                            |
 +----------------------+-------------------------------+-------------------+--------------------------------------------------------------+
+
+Parte 4 — Riesgos y límites de la IA
+1. Sesgos en los datos
+
+Si los datos usados para entrenar un modelo contienen errores o están desequilibrados, el sistema puede producir decisiones injustas o incorrectas.
+
+Ejemplo:
+Un sistema de IA que evalúe solicitudes de crédito podría discriminar a ciertos grupos si los datos históricos contienen sesgos.
+
+2. Falta de transparencia en los modelos
+
+Algunos modelos de IA son difíciles de interpretar, lo que puede dificultar entender por qué se ha tomado una determinada decisión.
+
+Medidas de mitigación
+1. Revisión humana
+
+Mantener supervisión humana en decisiones críticas para validar los resultados de la IA.
+
+2. Auditoría y validación del modelo
+
+Realizar pruebas periódicas para detectar errores, sesgos o fallos en el sistema antes y después de su implementación.
