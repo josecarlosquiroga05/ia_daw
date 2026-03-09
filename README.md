@@ -174,3 +174,17 @@ Robótica.
 Sectores relacionados
 
 Industria 4.0, robótica, automoción y sistemas embebidos.
+
+Parte 3 — Comparativa sector, IA y lenguaje
+
++----------------------+-------------------------------+-------------------+--------------------------------------------------------------+
+| Sector               | Aplicación de IA              | Lenguaje adecuado | Motivo                                                       |
++----------------------+-------------------------------+-------------------+--------------------------------------------------------------+
+| Sanidad              | Análisis de imágenes médicas  | Python            | Gran cantidad de librerías de machine learning y visión     |
+|                      |                               |                   | artificial                                                   |
++----------------------+-------------------------------+-------------------+--------------------------------------------------------------+
+| Banca                | Detección de fraude           | Java              | Integración con sistemas empresariales y alta estabilidad   |
++----------------------+-------------------------------+-------------------+--------------------------------------------------------------+
+| Comercio electrónico | Recomendación de productos    | Python            | Facilita el desarrollo de algoritmos de recomendación y     |
+|                      |                               |                   | análisis de datos                                            |
++----------------------+-------------------------------+-------------------+--------------------------------------------------------------+
