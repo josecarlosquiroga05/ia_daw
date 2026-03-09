@@ -69,3 +69,108 @@ Personalización de las recomendaciones.
 Por qué este sector tiene una implantación relevante de IA
 
 Las plataformas de comercio electrónico generan grandes volúmenes de datos sobre el comportamiento de los usuarios, lo que permite entrenar sistemas de recomendación muy eficaces.
+
+Parte 2 — Lenguajes de programación usados en IA
+Python
+
+Para qué se usa
+
+Desarrollo de modelos de aprendizaje automático.
+
+Análisis de datos.
+
+Procesamiento de lenguaje natural y visión por computador.
+
+Ventajas
+
+Sintaxis sencilla.
+
+Gran cantidad de bibliotecas de IA.
+
+Amplia comunidad de desarrolladores.
+
+Dónde encaja mejor
+
+Investigación en IA.
+
+Desarrollo de modelos de machine learning.
+
+Sectores relacionados
+
+Sanidad, comercio electrónico, marketing digital y ciberseguridad.
+
+R
+
+Para qué se usa
+
+Análisis estadístico avanzado.
+
+Visualización de datos.
+
+Modelos predictivos.
+
+Ventajas
+
+Excelente para análisis estadístico.
+
+Muchas herramientas para visualización de datos.
+
+Dónde encaja mejor
+
+Investigación científica.
+
+Análisis de datos complejos.
+
+Sectores relacionados
+
+Sanidad, economía, investigación y análisis financiero.
+
+Java
+
+Para qué se usa
+
+Desarrollo de aplicaciones empresariales con IA.
+
+Sistemas de análisis de datos a gran escala.
+
+Ventajas
+
+Alta estabilidad.
+
+Buen rendimiento.
+
+Integración con sistemas empresariales.
+
+Dónde encaja mejor
+
+Aplicaciones corporativas.
+
+Sistemas financieros.
+
+Sectores relacionados
+
+Banca, seguros y grandes empresas tecnológicas.
+
+C++
+
+Para qué se usa
+
+Desarrollo de algoritmos de alto rendimiento.
+
+Sistemas que requieren mucha eficiencia y velocidad.
+
+Ventajas
+
+Muy rápido.
+
+Control detallado del hardware.
+
+Dónde encaja mejor
+
+Sistemas de visión artificial.
+
+Robótica.
+
+Sectores relacionados
+
+Industria 4.0, robótica, automoción y sistemas embebidos.
