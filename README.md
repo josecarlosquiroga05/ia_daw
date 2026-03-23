@@ -40,3 +40,25 @@
 
 - Uso:
   Mostrar recomendaciones personalizadas en la app web.
+
+  ## 4) Integración
+- Backend:
+  API REST que conecta la base de datos con el modelo de IA (microservicio en Python o Node.js).
+
+- Frontend:
+  Interfaz web que muestra productos recomendados en tiempo real.
+
+- Flujo:
+  Usuario entra → navega → backend recoge datos → IA procesa → devuelve recomendaciones → frontend las muestra.
+
+
+## 5) Valor
+- Mejora:
+  Personalización de la experiencia de usuario y aumento de conversión.
+
+- Sin IA:
+  Recomendaciones genéricas poco efectivas.
+
+- Rentabilidad:
+  Incremento de ventas, fidelización del cliente y mayor tiempo en la plataforma.
+
