@@ -61,4 +61,18 @@
 
 - Rentabilidad:
   Incremento de ventas, fidelización del cliente y mayor tiempo en la plataforma.
+  
+## 6) Diagrama
+
+Usuario 
+   ↓
+App Web (Frontend)
+   ↓
+Backend (API REST)
+   ↓
+Modelo de IA
+   ↓
+Resultado (Recomendaciones)
+   ↓
+Usuario
 
