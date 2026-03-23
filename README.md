@@ -76,3 +76,20 @@ Resultado (Recomendaciones)
    ↓
 Usuario
 
+## 7) Riesgos
+- Riesgo 1:
+  Uso indebido de datos personales.
+
+- Mitigación 1:
+  Anonimización de datos y cumplimiento de GDPR.
+
+- Riesgo 2:
+  Sesgo en el modelo (recomendaciones injustas o limitadas).
+
+- Mitigación 2:
+  Evaluación continua del modelo y uso de datasets equilibrados.
+
+
+## 8) Fuente:
+https://learn.microsoft.com/es-es/azure/machine-learning/
+
