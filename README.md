@@ -31,4 +31,15 @@ Análisis: Algoritmos detectan patrones y tendencias.
 Uso: Se generan recomendaciones y decisiones empresariales.
 Eliminación: Datos antiguos o innecesarios se eliminan o archivan según políticas.
 
+7) Tabla (ASCII)
++--------------------------------------+----------------------------------------------+
+| Dato                                 | Información                                  |
++--------------------------------------+----------------------------------------------+
+| Usuario vio 30 min de una serie      | La serie pierde interés a mitad del episodio |
+| 1000 reproducciones en un día        | Contenido popular                            |
+| Usuario busca "acción"               | Prefiere películas de acción                 |
+| Uso a las 22:00                      | Hora pico de consumo                         |
+| 50% abandona episodio 1              | Serie con baja retención                     |
++--------------------------------------+----------------------------------------------+
+
 
