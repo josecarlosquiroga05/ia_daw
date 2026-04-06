@@ -42,4 +42,20 @@ Eliminación: Datos antiguos o innecesarios se eliminan o archivan según polít
 | 50% abandona episodio 1              | Serie con baja retención                     |
 +--------------------------------------+----------------------------------------------+
 
+8) Diagrama
+
+Usuario → App → Base de datos → Procesamiento → Análisis → Decisión
+
+Ejemplo aplicado:
+Usuario ve una serie → la app registra → se guarda en base de datos → se procesa → se analiza el comportamiento → se recomienda contenido similar.
+
+9) Problemas
+Problema 1: Datos erróneos (ej: registros duplicados)
+Solución 1: Validación automática y limpieza de datos
+Problema 2: Datos incompletos (usuarios sin historial suficiente)
+Solución 2: Uso de algoritmos predictivos y datos similares (usuarios parecidos)
+
+11) Fuente
+Enlace: IBM — https://www.ibm.com/topics/data-analytics
+
 
